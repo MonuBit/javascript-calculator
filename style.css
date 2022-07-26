@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    padding: 3%;
+}
+
+.title{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 5px;
+    font-family: fantasy;
+}
+
+.red{
+    background-color: rgb(99, 17, 124);
+}
+.blue{
+    background-color: rgb(172, 34, 113);
+}
+
+label{
+    color:white;
+}
+button{
+    color: black;
+}
+
+.percentage{
+    padding: 5%;
+    color: white;
+    font-size: 27px;
+    font-family: monospace;
+}
+
+#percentage ,#grade{
+    margin-left: 10%;
+    color: white;
+    font-size: 50px;
+    font-family: monospace;
+}
+#message{
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+#percentagetag,#gradetag{
+    color: white;
+    font-size: 30px;
+    padding: 2%;
+    font-family: cursive;
+}
